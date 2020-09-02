@@ -56,7 +56,7 @@ There are another Python script for tokenization utils, used in some notebooks n
 
 ## 🤖 Trained models
 
-Every model trained using the FastAI library is located under the folder `models`. The name of each one is consistent with the names used in the different notebooks above commented. The models stored using the 🤗HuggingFace's Transformer libraries are in the folders `20200813_gpt2-CodeSearchNet-fine-tuned`, `20200817_fit_head_bert_model-CodeSearchNet`, `20200817_fine_tuned_bert_model-CodeSearchNet`, `20200813_roberta-CodeSearchNet_fit_head`, and `20200813_roberta-CodeSearchNet_fine_tuned`.
+Every model trained using the [FastAI library](https://github.com/fastai/) is located under the folder `models`. The name of each one is consistent with the names used in the different notebooks above commented. The models stored using the [🤗HuggingFace's Transformers](https://github.com/huggingface/transformers) library are in the folders `20200813_gpt2-CodeSearchNet-fine-tuned`, `20200817_fit_head_bert_model-CodeSearchNet`, `20200817_fine_tuned_bert_model-CodeSearchNet`, `20200813_roberta-CodeSearchNet_fit_head`, and `20200813_roberta-CodeSearchNet_fine_tuned`.
 
 ## Results
 
