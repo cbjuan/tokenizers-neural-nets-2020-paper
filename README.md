@@ -1,6 +1,6 @@
 # tokenizers-neural-nets-2020-paper
 
-<!--- [![DOI](https://zenodo.org/badge/285613872.svg)](https://zenodo.org/badge/latestdoi/285613872) --->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4011767.svg)](https://doi.org/10.5281/zenodo.4011767)
 
 This repository contains every notebook, model, and pickled dataset and other supporting materials used during the research associated to the paper `Automated Source Code Generation and Auto-completion Using Deep Learning: Comparing and Discussing Current Language-Model-Related Approaches`
 
